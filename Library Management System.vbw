@@ -1,0 +1,12 @@
+book_processing = 0, 0, 0, 0, C, 78, 78, 920, 520, C
+membership_processing = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+book_issue = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+book_return = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modify_password = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+authentication = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+member_info = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+book_information = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+main_form = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modify_username = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+connection = 52, 52, 894, 494, C
+DataEnvironment1 = 0, 0, 0, 0, C, 26, 26, 1060, 716, C

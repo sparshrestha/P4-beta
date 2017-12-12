@@ -1,0 +1,171 @@
+[Root]
+Most Recent Package=Nepal Bharat Library
+
+
+[Package|Nepal Bharat Library|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\P4\Package
+
+[Package|Nepal Bharat Library|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+
+[Package|Nepal Bharat Library|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Nepal Bharat Library|Files Found]
+
+[Package|Nepal Bharat Library|Files Released]
+
+[Package|Nepal Bharat Library|Missing Dependency Information]
+C:\Program Files\Common Files\System\ado\msado20.tlb=
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=
+C:\Windows\SysWOW64\MSSTDFMT.DLL=
+
+[Package|Nepal Bharat Library|Out-of-Date Dependency Information]
+C:\Windows\System32\COMCT332.OCX=
+C:\Windows\System32\MSSTDFMT.DLL=
+C:\Windows\SysWOW64\comct332.ocx=
+C:\Windows\SysWOW64\mscomct2.ocx=
+
+[Package|Nepal Bharat Library|Files Added]
+d:\p4\librarymgmtsystem.mdb=
+
+[Package|Nepal Bharat Library|Files Removed]
+
+[Package|Nepal Bharat Library|Files In Project]
+D:\P4\Nepal Bharat Library.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+C:\Windows\System32\MSJET35.DLL=Yes
+C:\Windows\System32\MSJTER35.DLL=Yes
+C:\Windows\System32\MSJINT35.DLL=Yes
+C:\Windows\System32\vbajet32.dll=Yes
+C:\Windows\System32\expsrv.dll=Yes
+C:\Windows\System32\MSRD2X35.DLL=Yes
+C:\Windows\System32\MSREPL35.DLL=Yes
+C:\Windows\System32\VB5DB.DLL=Yes
+C:\Windows\System32\MSRDO20.DLL=Yes
+C:\Windows\System32\RDOCURS.DLL=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+D:\P4\librarymgmtsystem.mdb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\MSDBRPTR.DLL=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\MSCOMCT2.OCX=Yes
+C:\Windows\System32\COMCT332.OCX=Yes
+C:\Program Files\Common Files\microsoft shared\DAO\DAO350.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Windows\System32\MSADODC.OCX=Yes
+C:\Program Files\Common Files\System\ado\msado20.tlb=Yes
+C:\Windows\System32\MSBIND.DLL=Yes
+C:\Windows\System32\DBGRID32.OCX=Yes
+C:\Windows\System32\MSCHRT20.OCX=Yes
+C:\Windows\System32\MSDATGRD.OCX=Yes
+C:\Windows\System32\MSDATLST.OCX=Yes
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Nepal Bharat Library|Configure Registry Files]
+Applicable=No
+
+[Package|Nepal Bharat Library|Configure Remote Servers]
+Applicable=No
+
+[Package|Nepal Bharat Library|Install Locations]
+D:\P4\Nepal Bharat Library.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\System32\COMCT332.OCX=$(WinSysPath)
+C:\Program Files\Common Files\microsoft shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\Windows\System32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\vbajet32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\expsrv.dll=$(WinSysPathSysFile)
+C:\Windows\System32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB5DB.DLL=$(WinSysPath)
+C:\Windows\System32\MSADODC.OCX=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\Windows\System32\MSBIND.DLL=$(WinSysPath)
+C:\Windows\System32\DBGRID32.OCX=$(WinSysPath)
+C:\Windows\System32\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\System32\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\System32\MSDATLST.OCX=$(WinSysPath)
+C:\Program Files\Common Files\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Windows\System32\MSRDO20.DLL=$(WinSysPath)
+C:\Windows\System32\RDOCURS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\P4\librarymgmtsystem.mdb=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\mscomct2.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\comct332.ocx=$(WinSysPath)
+C:\Program Files (x86)\Common Files\microsoft shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\MSADODC.OCX=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\Windows\SysWOW64\MSBIND.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\DBGRID32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSDATLST.OCX=$(WinSysPath)
+C:\Program Files (x86)\Common Files\DESIGNER\MSDERUN.DLL=$(CommonFiles)\designer
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Nepal Bharat Library|Configure Shared Files]
+Applicable=Yes
+D:\P4\Nepal Bharat Library.exe=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\P4\librarymgmtsystem.mdb=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+
+[Package|Nepal Bharat Library|Distribution]
+Type=single
+Size=
+Title=Nepal Bharat Library
+
+[Package|Nepal Bharat Library|Package]
+PackageFolder=D:\P4\Package
+ProjectFolder=D:\P4
+ServerSideCab=
+File1=D:\P4\Package\setup.exe
+File2=D:\P4\Package\Setup.Lst
+File3=D:\P4\Package\Nepal Bharat Library.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Nepal Bharat Library|IconGroups]
+Group0=Nepal Bharat Library
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Nepal Bharat Library|Nepal Bharat Library]
+Icon1="Nepal Bharat Library.exe"
+Title1=Nepal Bharat Library
+StartIn1=$(AppPath)
+Key1=Icon1

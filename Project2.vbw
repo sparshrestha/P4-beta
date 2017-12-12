@@ -1,0 +1,7 @@
+book_processing = 50, 50, 907, 501, C, 25, 25, 879, 639, C
+membership_processing = 25, 25, 907, 414, C, 175, 175, 1032, 626, C
+book_issue = 150, 150, 1007, 601, C, 125, 125, 982, 576, C
+book_return = 0, 0, 0, 0, C, 175, 175, 1032, 626, C
+modify_authentication = 0, 0, 857, 451, C, 200, 200, 1057, 651, C
+authentication = 0, 0, 0, 0, C, 25, 25, 882, 476, C
+DataReport1 = 0, 0, 0, 0, C, 25, 25, 882, 476, C
